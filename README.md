@@ -1,4 +1,4 @@
-# HTB Cheatsheets — Notes and Resources (NO SPOILERS)
+# HTB Cheatsheets — Notes and Resources 
 
 **Purpose:** this repository is meant to keep track of useful information learned while following **Hack The Box** paths and modules — including theory, reusable commands, patterns, and external resources.  
 **Important:** it does *not* contain machine or challenge solutions, walkthroughs, or spoilers. The goal is purely educational — to summarize knowledge and improve technical skills.
@@ -23,22 +23,9 @@
 
 ---
 
-## How to use
-
-1. Open the desired section via the quick links below.  
-2. Search by tag (e.g. `#web`, `#recon`, `#privesc`) or date.  
-3. When adding a new note, follow the standard format (see below).  
-4. Avoid including full challenge solutions — instead, reference official writeups or private notes.
-
----
-
 ## Quick links
 
 - [Theoretical notes](./theory.md)  
 - [Practical notes](./practical.md)  
 - [Useful links](./links.md)
-
----
-
-## Recommended format for new entries
 
