@@ -7,4 +7,4 @@
 - **Essential Tools**: Firewalls, IDS/IPS, SIEM systems, vulnerability scanners, encryption, access control, and awareness platforms.  
 - **Penetration Testing Basics**: Includes tools like Nmap, Wireshark, Metasploit, Burp Suite, and John the Ripper.
 
-👉 For the full breakdown, see [Key Concepts in Information Security](./key-it-concepts.md)
+👉 For the full breakdown, see [Key Concepts in Information Security](./theory_files/info-security-details.md)
