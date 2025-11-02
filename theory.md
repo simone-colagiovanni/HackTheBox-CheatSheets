@@ -23,6 +23,4 @@
 * **📱 Mobile Security** – Safeguards mobile devices, their **data**, and **connections** using **biometrics**, **VPNs**, **encryption**, and **vetted apps**.
 * **🔗 IoT Security** – Defends interconnected devices through **secure design**, **firmware updates**, **network segmentation**, and **continuous monitoring** to reduce exposure.
 
-👉 For detailed coverage, see [Information Security Domains](./theory_files/info-domains.md)
-
-Would you like me to create a **matching detailed version** (`info-domains-details.md`) with short sections for each domain (like your “info-security-details.md” file)?
+👉 For detailed coverage, see [Information Security Domains](./theory_files/infosec-domains.md)
