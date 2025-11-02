@@ -13,16 +13,6 @@
 
 ---
 
-## Why this structure
-
-- Keeping **theory**, **practice**, and **resources** separate allows for:
-  - quick lookup of concepts without digging through scripts;
-  - easier reuse of commands and patterns in other contexts;
-  - centralized storage of the most valuable external references.  
-- It also makes the repository safe to share publicly (no spoilers, no sensitive data).
-
----
-
 ## Quick links
 
 - [Theoretical notes](./theory.md)  
