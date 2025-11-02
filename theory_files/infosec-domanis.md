@@ -1,4 +1,4 @@
-# Infosec domains
+# Information Security Domains
 
 ## Network security
 
